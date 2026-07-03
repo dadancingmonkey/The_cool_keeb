@@ -1,0 +1,6 @@
+if SHIELD_COOLKEEB
+
+config ZMK_KEYBOARD_NAME
+    default "coolkeeb"
+
+endif # SHIELD_COOLKEEB
