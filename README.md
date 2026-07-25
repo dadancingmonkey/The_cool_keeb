@@ -29,7 +29,10 @@ Assembly instructions:
 - Attach MX switches to the keyboard plate
 - Set MX switches into the hot-swap inserts
 - Assemble the enclosure with 3D-printed parts and CNC aluminum parts.
+- The case is essentially sandwiched using M3 screws, with the top 3D-printed elments being press-fit. 
 
+Exploded view of enclosure assembly:
+<img width="1208" height="792" alt="Screenshot 2026-07-24 at 10 58 54 PM" src="https://github.com/user-attachments/assets/651088e0-b9cc-4455-8fd8-fcbc8dc81ed5" />
 
 
 BOM: 
@@ -54,5 +57,6 @@ BOM:
 | Aluminum cosmetic plate | $5.19 | 1 | JLCCNC |
 | Aluminum bottom plate | $11.03 | 1 | JLCCNC |
 | Aluminum bottom subframe plate | $10.40 | 1 | JLCCNC |
+| PLA 3D printing filament + machine time | $0.00 | 1 | me |
 | Shipping (JLCPCB/CNC, DHL Express) | $31.77 | 1 | DHL Express |
 
