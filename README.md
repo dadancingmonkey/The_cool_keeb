@@ -32,7 +32,7 @@ Assembly instructions:
 - The case is essentially sandwiched using M3 screws, with the top 3D-printed elments being press-fit. 
 
 Exploded view of enclosure assembly:
-<img width="1208" height="792" alt="Screenshot 2026-07-24 at 10 58 54 PM" src="https://github.com/user-attachments/assets/651088e0-b9cc-4455-8fd8-fcbc8dc81ed5" />
+<img width="1245" height="940" alt="Screenshot 2026-07-24 at 11 02 27 PM" src="https://github.com/user-attachments/assets/8b592162-03ee-41f8-abd7-8fb527add1a0" />
 
 
 BOM: 
