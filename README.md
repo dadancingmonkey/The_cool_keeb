@@ -23,6 +23,10 @@ images:
 Schematics: 
 <img width="1498" height="1343" alt="Screenshot 2026-07-24 at 12 16 46 PM" src="https://github.com/user-attachments/assets/601c689c-382d-4fae-b003-45c65abb945d" />
 
+PCB:
+<img width="2232" height="981" alt="image" src="https://github.com/user-attachments/assets/e528034a-52e8-4bcc-bf64-e268a9266e1e" />
+
+
 Assembly instructions:
 - Solder the Kailh hot-swap inserts to the shield/keybaord board
 - Solder all relavant components using schematic (diodes, LEDs, MCU, etc.)
