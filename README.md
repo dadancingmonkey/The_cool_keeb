@@ -61,6 +61,6 @@ BOM:
 | Aluminum cosmetic plate | $5.19 | 1 | JLCCNC |
 | Aluminum bottom plate | $11.03 | 1 | JLCCNC |
 | Aluminum bottom subframe plate | $10.40 | 1 | JLCCNC |
-| PLA 3D printing filament + machine time | $0.00 | 1 | me |
+| PLA 3D printing filament + machine time | $5.00 | 1 | me |
 | Shipping (JLCPCB/CNC, DHL Express) | $31.77 | 1 | DHL Express |
 
